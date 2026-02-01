@@ -39,6 +39,7 @@ The project uses **two datasets scraped from the Google Play Store**, covering a
 **User Reviews Dataset** → User feedback and sentiment analysis  
 
 Together, these datasets help analyze both **quantitative app performance metrics** and **qualitative user opinions**.
+
 # Variables Details of Dataset
 
 # Apps Dataset
@@ -113,7 +114,7 @@ Together, these datasets help analyze both **quantitative app performance metric
 - Created additional features like:
   - **Rating Group**
   - **Estimated Revenue**
-  - 
+  
 # Key Insights
 
 - Around **92% of apps are free**
